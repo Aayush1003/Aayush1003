@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aayush1003
-- 👀 I’m interested in Angular and Spring Boot
+- 👀 I’m interested in Angular,Ionic and Spring Boot
 - 🌱 I’m currently working as AST at TCS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
