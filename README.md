@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aayush1003
 - 👀 I’m interested in Angular,ReactJS,NodeJs,Ionic and Spring Boot.
 - 🌱 I’m currently working as System Eng. at TCS
-- 💞️ I’m looking to collaborate on Spring Boot and Angular Project
+- 💞️ I’m looking to collaborate on  Angular Project
 - 📫 To reach me check my portfolio.
 
 <!---
