@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @Aayush1003
 - 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
+- 🏫 I’m currently learning Devops and Cloud
 - 🌱 I’m currently working as System Eng. at TCS
-- 💞️ I’m looking to collaborate on  Angular Project
+- 💞️ I’m looking to collaborate on  Spring Boot,Devops,Angular and ReactJS  Project
+- 💬 Ask me about Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm
+- 🔎 I’m actively looking to collaborate on Open source Project
+- 💗 Love to talk about Research and Innovation!
+- 💪 Passionate about Competitive Coding
+- 📫 How to reach me - aayushgupta1003@gmail.com
 - 📫 To reach me check my portfolio.
 
 <!---
