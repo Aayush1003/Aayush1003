@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aayush1003
 - 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
 - 🏫 I’m currently learning Devops and Cloud
-- 🌱 I’m currently working as System Eng. at TCS
+- 🌱 I’m currently working as System Engineer at TCS
 - 💞️ I’m looking to collaborate on  Spring Boot,Devops,Angular and ReactJS  Project
 - 💬 Ask me about Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm
 - 🔎 I’m actively looking to collaborate on Open source Project
