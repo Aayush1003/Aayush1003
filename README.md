@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aayush1003
+- 👋 Hi, I’m @Aayush Gupta.
 - 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
 - 🏫 I'm an expert in DevOps and Cloud technologies, and I'm continuously expanding my knowledge in the field
 - 🌱 I’m currently working as System Engineer at TCS
