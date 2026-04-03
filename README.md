@@ -1,5 +1,5 @@
 <!--TOP WAVY-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Software%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
 
 
 <!--CONNECT ME BADGES-->
