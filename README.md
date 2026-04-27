@@ -8,6 +8,29 @@
   <a href="https://www.youtube.com/@AayushGupta04" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
+<!-- BADGES -->
+<p align="left">
+
+  <!-- GitHub Profile -->
+  <a href="https://github.com/Aayush1003">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" alt="GitHub Profile"/>
+  </a>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Aayush1003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
+  <!-- Stars Badge -->
+  <a href="https://github.com/Aayush1003?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Aayush1003?affiliations=OWNER&style=social" alt="GitHub Stars"/>
+  </a>
+
+  <!-- Followers Badge -->
+  <a href="https://github.com/Aayush1003?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aayush1003?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+
+</p>
+
 <!--CODING GIF-->
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
