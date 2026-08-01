@@ -37,7 +37,7 @@
 
 <!--ABOUT ME CONTENT-->
 <p>
-A zealous, creative and adept engineer hailing from Indore, with an undergraduate degree in Information Technology from one of the premier institutes of India, namely Medicaps University .Well versed in Python, C, HTML, CSS, JavaScript, React and React Native. Efficient in graphics designing and UI-UX, with an expertise in Photoshop, Illustrator and Figma. Currently mastering one of the vast domains, System Design.
+A passionate Software Engineer from Indore, India, with a Bachelor's degree in Information Technology from Medicaps University. I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software engineering.
   
  - 👋 Hi, I’m @Aayush Gupta.
 - 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
