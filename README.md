@@ -37,7 +37,7 @@
 
 <!--ABOUT ME CONTENT-->
 <p>
-A passionate Software Engineer from Indore, India, with a Bachelor's degree in Information Technology from Medicaps University. I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software engineering.
+A passionate Software Engineer from Indore, India, with a Bachelor's degree in Information Technology from Medicaps University. I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software & AI engineering.
   
  - 👋 Hi, I’m @Aayush Gupta.
 - 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
