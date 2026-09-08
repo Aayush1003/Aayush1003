@@ -1,5 +1,5 @@
 <!--TOP WAVY-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20AI%20%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
 
 
 <!--CONNECT ME BADGES-->
@@ -37,7 +37,7 @@
 
 <!--ABOUT ME CONTENT-->
 <p>
-A passionate Software Engineer from Indore, India, with a Bachelor's degree in Information Technology from Medicaps University. I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software & AI engineering.
+A passionate AI Engineer from Indore, India, with a Bachelor's degree in Information Technology from Medicaps University. I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software & AI engineering.
   
  - 👋 Hi, I’m @Aayush Gupta.
 - 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
