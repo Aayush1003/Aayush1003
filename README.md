@@ -37,7 +37,7 @@
 
 <!--ABOUT ME CONTENT-->
 <p>
-A passionate AI Engineer from Indore, India, with a Bachelor's degree in Information Technology from Medicaps University. I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software & AI engineering.
+I’m a AI Engineer passionate about building scalable, cloud-native applications and AI-powered solutions. I enjoy working across the full development lifecycle — from designing backend services and APIs to building modern frontends and deploying applications on the cloud
   
  - 👋 Hi, I’m @Aayush Gupta.
 - 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
@@ -58,13 +58,6 @@ A passionate AI Engineer from Indore, India, with a Bachelor's degree in Informa
  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Engineer;Pixel%20Perfect%20UI/UX%20Designer;&width=800&height=45"></a>
 </p>
 
-
-<h3 align="left">Coding profiles:</h3>
-<p align="left"> 
-<a href="https://leetcode.com/u/aayushgupta047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayushgupta047" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/aayushgupta8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aayushgupta8" height="30" width="40" /></a>
-</p>
-<br/>
 
 
 
