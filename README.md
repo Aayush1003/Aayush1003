@@ -37,14 +37,14 @@
 
 <!--ABOUT ME CONTENT-->
 <p>
-I’m a AI Engineer passionate about building scalable, cloud-native applications and AI-powered solutions. I enjoy working across the full development lifecycle — from designing backend services and APIs to building modern frontends and deploying applications on the cloud
+I’m a AI Engineer passionate about building scalable, cloud-native applications and AI-powered solutions. I enjoy working across the full development lifecycle — from designing backend services and APIs to building modern frontends and deploying applications on the cloud.
   
  - 👋 Hi, I’m @Aayush Gupta.
-- 👀 I’m interested in Angular,ReactJS,AI,Cloud(AWS,Azure),Docker and Spring Boot.
+- 👀 I’m interested in Angular,ReactJS,AI & GenAI,Agentic AI, Cloud(AWS,Azure),Docker and Spring Boot.
 - 🏫 I'm an expert in AI,DevOps and Cloud technologies, and I'm continuously expanding my knowledge in the field
 - 🌱 I’m currently working as System Engineer at TCS
-- 💞️ I’m looking to collaborate on  Spring Boot,Devops,Angular and ReactJS  Project
-- 💬 Ask me about Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm
+- 💞️ I’m looking to collaborate on Agentic AI,AI & GenAI, Spring Boot,Devops,Angular and ReactJS  Project.
+- 💬 Ask me about AI, Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm.
 - 🔎 I’m actively looking to collaborate on Open source Project
 - 💗 Love to talk about Research and Innovation!
 - 💪 Passionate about Competitive Coding
