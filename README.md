@@ -1,60 +1,106 @@
-<div align="center">
+<!-- TOP HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&width=1200&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Full-Stack%20Developer&fontColor=ffffff&project=github" alt="Header banner" />
 
-# Aayush Gupta
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-g-1013a3158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@AayushGupta04" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/Aayush1003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-### AI Engineer building useful, reliable AI products
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aayush1003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Aayush1003?tab=repositories"><img src="https://img.shields.io/github/stars/Aayush1003?affiliations=OWNER&style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/Aayush1003?tab=followers"><img src="https://img.shields.io/github/followers/Aayush1003?label=Followers&style=social" alt="Followers" /></a>
+</p>
 
-I work at the intersection of **AI agents, evaluation, and full-stack engineering**—turning ambitious ideas into systems people can understand, test, and use.
+<img align="right" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding animation" />
 
-[Portfolio](https://github.com/Aayush1003/Aayush1003.github.io) · [LinkedIn](https://www.linkedin.com/in/aayush-g-1013a3158/) · [Email](mailto:aayushgupta1003@gmail.com)
+# 🚀 I Build Systems That Think, Decide, and Act
 
-</div>
+I am an AI Engineer obsessed with building software that goes beyond automation into autonomy. My work focuses on agentic AI, autonomous workflows, LLM-powered products, reasoning systems, and cloud-native software architectures.
+
+I don't just build apps. I architect systems where intelligence becomes a product.
+
+- 👋 Hi, I'm @Aayush Gupta.
+- 🤖 Building Agentic AI, LLM workflows, and autonomous decision systems.
+- 🧠 Interested in reasoning models, tool use, planning loops, memory, orchestration, and AI-native product design.
+- ☁️ Strong in Cloud, AWS, Azure, Docker, DevOps, and scalable backend engineering.
+- 💼 Skilled in Java, Spring Boot, ReactJS, Angular, Node.js, and modern full-stack development.
+- 🌱 Pushing toward super-intelligence-era tooling: AI agents, multi-agent systems, and adaptive software.
+- 💞️ Open to collaborating on Agentic AI, GenAI, Cloud AI products, and future-facing research.
+- 📫 Reach me: aayushgupta1003@gmail.com
+- 🚀 Mission: turn ideas into systems that can think, learn, and create value at scale.
+
+<a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Agentic+AI+Builder;Autonomous+Systems;Cloud+Architect;Full-Stack+Developer;Building+to+think+and+act" alt="Typing SVG" /></a>
 
 ---
 
-## What I care about
+## 🧬 My Vision
 
-The next generation of AI software needs more than a clever prompt. It needs dependable tool use, measurable behavior, thoughtful product design, and sound engineering around the model.
+I want to build software that behaves less like a tool and more like an intelligent teammate.
 
-I’m focused on building that layer: **agent workflows that can be evaluated, improved, and delivered as real products**. My engineering background spans Java and Spring Boot, JavaScript/TypeScript, React, Node.js, cloud, and DevOps.
+My mission is to create systems that can:
+- reason across context,
+- take actions using tools,
+- plan and adapt dynamically,
+- work across APIs, data, and environments,
+- amplify human capability at scale.
 
-## Selected work
+This is the era of AI-native products. I want to be part of the generation that turns intelligence into infrastructure.
 
-### [Reliable AI Agents](https://github.com/Aayush1003/reliable-ai-agents)
-An open toolkit for repeatable, model-agnostic evaluation of agent runs. It reports per-check results and produces machine-readable output, with no model calls or network access in the evaluation path.
+---
 
-**Focus:** evaluation, reliability, safety-minded engineering, Python, CI-friendly tooling
+## ⚙️ Core Focus Areas
 
-### [Human Frontier](https://github.com/Aayush1003/human-frontier)
-A human-centered exploration platform for turning curiosity into a small, meaningful real-world action. Built around privacy-conscious design and a safety-first guide.
+- Agentic AI and autonomous workflows
+- LLM applications and reasoning pipelines
+- Multi-agent systems and orchestration
+- Retrieval, memory, and context engineering
+- AI-powered product design
+- Cloud-native deployment and scalable architecture
+- Full-stack engineering across backend and frontend
 
-**Focus:** AI product design, TypeScript, mobile and API foundations, privacy
+---
 
-### [MindForge Agentic OS](https://github.com/Aayush1003/mindforge-agentic-os)
-A local-first prototype exploring persistent memory, context retrieval, reflection, and turning goals into plans.
+## 🛠️ Tech Stack
 
-**Focus:** agent architecture, memory, planning, Python
+| Languages | Frameworks & Tools | Databases | Cloud / Infra |
+| --------- | ------------------ | --------- | -------------- |
+| Python, Java, JavaScript, TypeScript | React, Angular, Spring Boot, Node.js, Express, Docker | MySQL, PostgreSQL, MongoDB | AWS, Azure, Linux, Kubernetes, CI/CD |
 
-### [Agent Arena](https://github.com/Aayush1003/ai-agent-arena)
-A multi-agent simulation project exploring orchestration, tools, retrieval, and long-term memory.
+---
 
-**Focus:** multi-agent systems, tool use, orchestration, evaluation
+## 🌌 Why This Matters
 
-## Engineering principles
+The next wave of innovation will not come from software that only executes commands. It will come from software that understands goals, sees context, coordinates action, and continuously improves.
 
-- **Measure behavior:** make quality visible with test cases and reproducible evaluations.
-- **Build for people:** start with a real user need, not a flashy AI demo.
-- **Make limits clear:** design for privacy, safety, and honest communication about what a system can do.
-- **Ship end to end:** connect AI capabilities to usable interfaces, APIs, and maintainable infrastructure.
+I am building toward that future.
 
-## Technologies
+---
 
-**Languages:** Python · Java · TypeScript · JavaScript  
-**Application:** Spring Boot · React · Angular · Node.js  
-**Engineering:** APIs · Docker · AWS · Azure · CI/CD
+## 📊 GitHub Stats
 
-## Let’s connect
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush1003&theme=tokyonight_duo" alt="GitHub Streak Stats" />
+</p>
 
-I’m interested in AI engineering roles and collaborations involving agent evaluation, reliable AI products, and thoughtful applied AI.
+<br clear="both" />
 
-**Email:** [aayushgupta1003@gmail.com](mailto:aayushgupta1003@gmail.com) · **LinkedIn:** [aayush-g-1013a3158](https://www.linkedin.com/in/aayush-g-1013a3158/)
+<!-- CONTRIBUTION-GRAPH:START -->
+### Contribution activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/Aayush1003" alt="Aayush1003's GitHub contribution graph" width="100%" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future-facing+AI+Engineer;Autonomy+is+the+next+interface;Building+systems+that+learn+and+act;Turning+intelligence+into+products" alt="Future-facing AI Engineer" />
+</p>
+
+<!--
+Aayush1003/Aayush1003 is a ✨ special ✨ repository because its README appears on the GitHub profile.
+The goal is simple: build systems that reshape how people and AI collaborate.
+--->
