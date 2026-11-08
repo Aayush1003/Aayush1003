@@ -1,5 +1,5 @@
 <!-- TOP HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&width=1200&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Full-Stack%20Developer&fontColor=ffffff&project=github" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&width=1200&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=52&animation=fadeIn&fontAlignY=35&desc=A%20Future-Facing%20AI%20Engineer%20%7C%20Building%20Autonomous%20Systems" alt="Header banner" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-g-1013a3158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 
 # 🚀 I Build Systems That Think, Decide, and Act
 
-I am an AI Engineer obsessed with building software that goes beyond automation into autonomy. My work focuses on agentic AI, autonomous workflows, LLM-powered products, reasoning systems, and cloud-native software architectures.
+I am an AI Engineer obsessed with building software that goes beyond automation into autonomy. My work focuses on agentic AI, autonomous workflows, LLM-powered products, reasoning systems, and cloud-native architecture.
 
 I don't just build apps. I architect systems where intelligence becomes a product.
 
@@ -31,7 +31,7 @@ I don't just build apps. I architect systems where intelligence becomes a produc
 - 📫 Reach me: aayushgupta1003@gmail.com
 - 🚀 Mission: turn ideas into systems that can think, learn, and create value at scale.
 
-<a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Agentic+AI+Builder;Autonomous+Systems;Cloud+Architect;Full-Stack+Developer;Building+to+think+and+act" alt="Typing SVG" /></a>
+<a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Agentic+AI+Builder;Autonomous+Systems;Cloud+Architect;Full-Stack+Developer;Building+to+this+future" alt="Typing animation" /></a>
 
 ---
 
@@ -91,101 +91,6 @@ I am building toward that future.
 
 <p align="center">
   <img src="https://ghchart.rshah.org/0e75b6/Aayush1003" alt="Aayush1003's GitHub contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <svg width="760" height="190" viewBox="0 0 760 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub-style activity coordinate graph">
-    <rect width="760" height="190" fill="#f6f8fa" rx="12"/>
-    <g stroke="#d0d7de" stroke-width="1" fill="none">
-      <line x1="66" y1="30" x2="690" y2="30"/>
-      <line x1="66" y1="30" x2="66" y2="150"/>
-      <line x1="66" y1="150" x2="690" y2="150"/>
-      <line x1="690" y1="30" x2="690" y2="150"/>
-    </g>
-
-    <g font-size="10" fill="#57606a" font-family="Segoe UI, Arial, sans-serif">
-      <text x="70" y="18">Jan</text>
-      <text x="182" y="18">Feb</text>
-      <text x="294" y="18">Mar</text>
-      <text x="406" y="18">Apr</text>
-      <text x="518" y="18">May</text>
-      <text x="630" y="18">Jun</text>
-      <text x="16" y="138">Mon</text>
-      <text x="16" y="118">Tue</text>
-      <text x="16" y="98">Wed</text>
-      <text x="16" y="78">Thu</text>
-      <text x="16" y="58">Fri</text>
-    </g>
-
-    <g>
-      <g transform="translate(80,42)">
-        <rect x="0" y="0" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="14" y="0" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="28" y="0" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="42" y="0" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="56" y="0" width="10" height="10" rx="2" fill="#216e39"/>
-        <rect x="70" y="0" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="84" y="0" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="98" y="0" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="112" y="0" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="126" y="0" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="140" y="0" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="154" y="0" width="10" height="10" rx="2" fill="#216e39"/>
-        <rect x="168" y="0" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="182" y="0" width="10" height="10" rx="2" fill="#ebedf0"/>
-
-        <rect x="0" y="16" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="14" y="16" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="28" y="16" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="42" y="16" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="56" y="16" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="70" y="16" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="84" y="16" width="10" height="10" rx="2" fill="#216e39"/>
-        <rect x="98" y="16" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="112" y="16" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="126" y="16" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="140" y="16" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="154" y="16" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="168" y="16" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="182" y="16" width="10" height="10" rx="2" fill="#30a14e"/>
-
-        <rect x="0" y="32" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="14" y="32" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="28" y="32" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="42" y="32" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="56" y="32" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="70" y="32" width="10" height="10" rx="2" fill="#216e39"/>
-        <rect x="84" y="32" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="98" y="32" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="112" y="32" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="126" y="32" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="140" y="32" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="154" y="32" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="168" y="32" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="182" y="32" width="10" height="10" rx="2" fill="#30a14e"/>
-
-        <rect x="0" y="48" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="14" y="48" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="28" y="48" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="42" y="48" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="56" y="48" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="70" y="48" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="84" y="48" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="98" y="48" width="10" height="10" rx="2" fill="#216e39"/>
-        <rect x="112" y="48" width="10" height="10" rx="2" fill="#40c463"/>
-        <rect x="126" y="48" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="140" y="48" width="10" height="10" rx="2" fill="#ebedf0"/>
-        <rect x="154" y="48" width="10" height="10" rx="2" fill="#30a14e"/>
-        <rect x="168" y="48" width="10" height="10" rx="2" fill="#9be9a8"/>
-        <rect x="182" y="48" width="10" height="10" rx="2" fill="#40c463"/>
-      </g>
-    </g>
-
-    <g fill="#57606a" font-size="11" font-family="Segoe UI, Arial, sans-serif">
-      <text x="296" y="176">Less</text>
-      <text x="600" y="176">More</text>
-    </g>
-  </svg>
 </p>
 <!-- CONTRIBUTION-GRAPH:END -->
 
