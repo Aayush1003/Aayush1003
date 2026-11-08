@@ -1,5 +1,5 @@
 <!-- TOP HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&width=1200&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=52&animation=fadeIn&fontAlignY=35&desc=Building%20Agentic%20AI%20%7C%20Autonomous%20Systems%20%7C%20Super-Intelligence%20Products&fontColor=ffffff" alt="Aayush Gupta Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&width=1200&section=header&text=Hi%20👋,%20I'm%20AAYUSH%20GUPTA&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Full-Stack%20Developer&fontColor=ffffff&project=github" alt="Header banner" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-g-1013a3158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 
 # 🚀 I Build Systems That Think, Decide, and Act
 
-I am an AI Engineer obsessed with building software that goes beyond automation into autonomy. My work focuses on agentic AI, autonomous workflows, LLM-powered products, reasoning systems, and cloud-native architectures that can operate as intelligent digital collaborators.
+I am an AI Engineer obsessed with building software that goes beyond automation into autonomy. My work focuses on agentic AI, autonomous workflows, LLM-powered products, reasoning systems, and cloud-native software architectures.
 
 I don't just build apps. I architect systems where intelligence becomes a product.
 
@@ -31,7 +31,7 @@ I don't just build apps. I architect systems where intelligence becomes a produc
 - 📫 Reach me: aayushgupta1003@gmail.com
 - 🚀 Mission: turn ideas into systems that can think, learn, and create value at scale.
 
-<a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Agentic+AI+Builder;Autonomous+Systems;Cloud+Architect;Full-Stack+Developer;Building+toward+super-intelligence" alt="Typing SVG" /></a>
+<a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Agentic+AI+Builder;Autonomous+Systems;Cloud+Architect;Full-Stack+Developer;Building+to+think+and+act" alt="Typing SVG" /></a>
 
 ---
 
@@ -86,10 +86,18 @@ I am building toward that future.
 
 <br clear="both" />
 
+<!-- CONTRIBUTION-GRAPH:START -->
+### Contribution activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/Aayush1003" alt="Aayush1003's GitHub contribution graph" width="100%" />
+</p>
+<!-- CONTRIBUTION-GRAPH:END -->
+
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future-facing+AI+Engineer;Autonomy+is+the+next+interface;Building+systems+that+learn+and+act;Turning+intelligence+into+products" alt="Future-focused message" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future-facing+AI+Engineer;Autonomy+is+the+next+interface;Building+systems+that+learn+and+act;Turning+intelligence+into+products" alt="Future-facing AI Engineer" />
 </p>
 
 <!--
